@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="22px" viewBox="0 0 20 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icons / i59 - Diamond - Give Core Badge</title>
+    <defs>
+        <linearGradient x1="77.7282715%" y1="100%" x2="10.8825684%" y2="-11.4227295%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-943.000000, -684.000000)" id="Icons-/-i59---Diamond---Give-Core-Badge">
+            <g transform="translate(941.000000, 683.000000)">
+                <g transform="translate(2.000000, 1.000000)" id="Diamond-15">
+                    <g>
+                        <g id="texture" fill-rule="nonzero">
+                            <polygon id="Path" fill="#2CEBFF" points="5.30859375 6.64592634 1 7 -7.58140074e-15 11 4.45 12.37 9.53 11.1 15.24 12.37 20 11 18 3 12 5.5 8.5 7"></polygon>
+                            <polygon id="Path" fill="#00AFC1" points="5.16 12 2.21107701 10.1125837 1.42108547e-14 11 2 19 10 22 18 19 20 11 15.24 12.37 9.53 11.1"></polygon>
+                            <polygon id="Path" fill="#00C6DB" points="10 22 18 19 12.5 15.5 10 15.5 7 16.5 2 19"></polygon>
+                            <polygon id="Path" fill="#13D4E8" points="1 7 5.30859375 6.64592634 7.58677455 7.59723772 12 5.5 16.6226283 7 18 3 10 -2.8617981e-15 2 3"></polygon>
+                        </g>
+                        <g id="shade">
+                            <polygon id="Path-9" fill="#000000" opacity="0" points="10 7 10 0 3 3 7 8"></polygon>
+                            <polygon id="Path-10" fill="#000000" opacity="0.2" points="7 8 6 11 0 11 2 3"></polygon>
+                            <polygon id="Path-12" fill="#000000" opacity="0.299641927" points="6 11 7 14 2 19 0 11"></polygon>
+                            <polygon id="Path-13" fill="#000000" opacity="0.148530506" points="10 22 10 15 7 14 2 19"></polygon>
+                            <polygon id="Path-15" fill="#000000" opacity="0.458682106" points="10 15 13 14 18 19 10 22"></polygon>
+                            <polygon id="Path-16" fill="#000000" opacity="0.224028088" points="14 11 20 11 18 19 13 14"></polygon>
+                            <polygon id="Path-17" fill="#000000" opacity="0.183268229" points="13 8 18 3 20 11 14 11"></polygon>
+                            <polygon id="Path-17" fill="#000000" opacity="0.282993862" points="10 7 10 0 18 3 13 8"></polygon>
+                            <polygon id="Polygon" fill="url(#linearGradient-1)" points="10 7 13 8 14 11 13 14 10 15 7 14 6 11 7 8"></polygon>
+                        </g>
+                        <path d="M10,0 L18,3 L20,11 L18,19 L10,22 L2,19 L0,11 L2,3 L10,0 Z M9.999,2.135 L3.685,4.503 L2.061,11 L3.685,17.496 L9.999,19.864 L16.314,17.496 L17.938,11 L16.314,4.503 L9.999,2.135 Z" id="outline" fill="#000000" fill-rule="nonzero" opacity="0.5"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
